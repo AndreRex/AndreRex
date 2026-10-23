@@ -84,7 +84,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🎵 What i'm hear</h3>
+<h3 data-importer="text" align="left">🎵 What i'm hear and playing</h3>
 
 ###
 
