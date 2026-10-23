@@ -64,7 +64,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Currently learning</h3>
+<h3 data-importer="text" align="left">🎵 What i'm hear</h3>
 
 ###
 
@@ -84,6 +84,26 @@
 
 ###
 
+<h3 data-importer="text" align="left">🎵 What i'm hear</h3>
+
+###
+
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/31psuuop2rbmtrofw3hqubtsj3oi" target="_blank">
+    <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31psuuop2rbmtrofw3hqubtsj3oi&theme=radical&count=2&width=500&radius=15&avatar=0&progress=0&duration=1&explicit=0&album=1" alt="Spotify recently played" />
+  </a>
+</div>
+
+###
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/AndreRex/AndreRex/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndreRex/AndreRex/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndreRex/AndreRex/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AndreRex/AndreRex/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ###
