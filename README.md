@@ -4,6 +4,10 @@
 
 ###
 
+<h3 data-importer="text" align="center">Visitors</h3>
+
+###
+
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://count.getloli.com/@:AndreRex?theme=gelbooru&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
